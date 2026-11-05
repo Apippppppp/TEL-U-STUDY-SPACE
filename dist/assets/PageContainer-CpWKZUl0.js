@@ -1,0 +1,1 @@
+import{o as s,c as l,C as t,n as m}from"./index-B2WjVb1F.js";const r={__name:"PageContainer",props:{size:{type:String,default:"md"}},setup(e){return(a,n)=>(s(),l("div",{class:m(["mx-auto w-full px-4 md:px-8",e.size==="sm"?"max-w-3xl":e.size==="lg"?"max-w-7xl":"max-w-5xl"])},[t(a.$slots,"default")],2))}};export{r as _};

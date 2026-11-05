@@ -1,0 +1,1 @@
+const o=(t,a)=>t===a?`${t} orang`:`${t}–${a} orang`,e=(t,a)=>{const n=parseInt(t.split(":")[0],10),r=parseInt(a.split(":")[0],10)-n;return r===1?"1 jam":`${r} jam`},c=(t,a)=>`${t}–${a}`;export{c as a,e as b,o as f};
